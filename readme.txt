@@ -7,4 +7,4 @@ More information about the license is available here: https://colorlib.com/wp/li
 
 Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
 
-MY Portfolio Page Link : https://muhammedrizwanpr.github.io/Muhammed_Rizwan/
+MY Portfolio Page Link : https://muhammedrizwanpr.github.io/Portfolio/
