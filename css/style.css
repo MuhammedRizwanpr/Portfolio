@@ -650,3 +650,10 @@ a {
 .form-control.px-3.py-4:focus{
   color: white;
 }
+.resume-item.mb-4{
+  width: 1054px;
+}
+.resume-item.mb-4{
+  margin-left: -74px;
+  margin-top: -41px;
+}
